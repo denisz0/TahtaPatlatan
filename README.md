@@ -1,4 +1,4 @@
-# TahtaPatlatan V1.=
+# TahtaPatlatan V1.0
 Basit Akıllı Tahtalardaki ATAK Yazılımını Devredışı bırakma toolu.
 
 Kullanması basit olan bu toolu akıllı tahta üzerinde açıp "Kilidi patlat" Butonuna bastığınızda ATAK geçici olarak kapatılır.
